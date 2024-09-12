@@ -16,4 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ##########################################################################
-libiarmmgrs_deepsleep_hal_la_SOURCES=plat-deepsleep.c
+SUBDIRS = source
